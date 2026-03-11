@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Lucas Silva de Carvalho, tenho 22 anos e sou natural de Campinas. Apaixonado por tecnologia e movido pela curiosidade analítica. Como graduando em Ciência da Computação, desenvolvi uma base técnica robusta que hoje direciono para a Ciência e Análise de Dados.
+Me chamo Lucas Silva de Carvalho, tenho 22 anos e sou natural de Campinas. Apaixonado por tecnologia e movido pela curiosidade analítica. Como graduando em Ciência da Computação, estou desenvolvendo uma base técnica robusta que hoje direciono para a Ciência e Análise de Dados.
 
 <p align="left">
     <a href="https://github.com/lucas-dev03?tab=repositories&sort=stargazers">
